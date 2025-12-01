@@ -1,0 +1,41 @@
+# Advent of Code 2025 ! :santa: :santa: :santa:
+Visit the [Advent of Code site](https://adventofcode.com/)!
+
+My daily Java implementations of Advent of Code 2025 puzzles
+
+## What is Advent of Code?
+Advent of Code is a series of small programming puzzles for a variety of skill levels. They are self-contained and are just as appropriate for an expert who wants to stay sharp as they are for a beginner who is just learning to code. Each puzzle calls upon different skills and has two parts that build on a theme.
+
+## Progress
+
+| Day | Part 1 | Part 2 | Title |
+|-----|--------|--------|-------|
+| 01  | :star: | :star: | Secret Entrance |
+| 02  |        |        | |
+| 03  |        |        | |
+| 04  |        |        | |
+| 05  |        |        | |
+| 06  |        |        | |
+| 07  |        |        | |
+| 08  |        |        | |
+| 09  |        |        | |
+| 10  |        |        | |
+| 11  |        |        | |
+| 12  |        |        | |
+| 13  |        |        | |
+| 14  |        |        | |
+| 15  |        |        | |
+| 16  |        |        | |
+| 17  |        |        | |
+| 18  |        |        | |
+| 19  |        |        | |
+| 20  |        |        | |
+| 21  |        |        | |
+| 22  |        |        | |
+| 23  |        |        | |
+| 24  |        |        | |
+| 25  |        |        | |
+
+## Utils
+
+This year I'm using a utility library to speed up solving. See [GUIDE.md](GUIDE.md) for documentation.

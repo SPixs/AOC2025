@@ -1,0 +1,22 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse settings (optional - keep or remove)
+.settings/
+
+# IDE files (optional)
+*.iml
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Input files (contain personal puzzle inputs - don't share!)
+input/input_day*.txt
+
+# Backup files
+*~
+*.bak
+*.swp
