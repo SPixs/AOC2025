@@ -11,14 +11,14 @@ Advent of Code is a series of small programming puzzles for a variety of skill l
 | Day | Part 1 | Part 2 | Title |
 |-----|--------|--------|-------|
 | 01  | :star: | :star: | Secret Entrance |
-| 02  |        |        | |
-| 03  |        |        | |
-| 04  |        |        | |
-| 05  |        |        | |
-| 06  |        |        | |
-| 07  |        |        | |
-| 08  |        |        | |
-| 09  |        |        | |
+| 02  | :star: | :star: | |
+| 03  | :star: | :star: | |
+| 04  | :star: | :star: | Printing Department |
+| 05  | :star: | :star: | Cafeteria |
+| 06  | :star: | :star: | Trash Compactor |
+| 07  | :star: | :star: | Laboratories |
+| 08  | :star: | :star: | Playground |
+| 09  | :star: | :star: | Movie Theater |
 | 10  |        |        | |
 | 11  |        |        | |
 | 12  |        |        | |
