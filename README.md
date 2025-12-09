@@ -1,4 +1,9 @@
 # Advent of Code 2025 ! :santa: :santa: :santa:
+
+<p align="center">
+  <img src="assets/banner.png" alt="Advent of Code 2025" width="600"/>
+</p>
+
 Visit the [Advent of Code site](https://adventofcode.com/)!
 
 My daily Java implementations of Advent of Code 2025 puzzles
