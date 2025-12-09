@@ -22,19 +22,6 @@ Advent of Code is a series of small programming puzzles for a variety of skill l
 | 10  |        |        | |
 | 11  |        |        | |
 | 12  |        |        | |
-| 13  |        |        | |
-| 14  |        |        | |
-| 15  |        |        | |
-| 16  |        |        | |
-| 17  |        |        | |
-| 18  |        |        | |
-| 19  |        |        | |
-| 20  |        |        | |
-| 21  |        |        | |
-| 22  |        |        | |
-| 23  |        |        | |
-| 24  |        |        | |
-| 25  |        |        | |
 
 ## Utils
 
