@@ -45,6 +45,13 @@ public class Point3D implements Comparable<Point3D> {
         return Math.abs(x) + Math.abs(y) + Math.abs(z);
     }
 
+    public double euclideanDistance(Point3D other) {
+        long dx = x - other.x;
+        long dy = y - other.y;
+        long dz = z - other.z;
+        return Math.sqrt(dx * dx + dy * dy + dz * dz);
+    }
+
     // Voisins (6 directions cardinales)
     public List<Point3D> getNeighbors6() {
         return List.of(
