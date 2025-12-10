@@ -24,7 +24,7 @@ Advent of Code is a series of small programming puzzles for a variety of skill l
 | 07  | :star: | :star: | Laboratories |
 | 08  | :star: | :star: | Playground |
 | 09  | :star: | :star: | Movie Theater |
-| 10  |        |        | |
+| 10  | :star: | :star: | Factory |
 | 11  |        |        | |
 | 12  |        |        | |
 
